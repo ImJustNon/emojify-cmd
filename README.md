@@ -2,7 +2,7 @@
 A one of Fun discord command
 
 - code 
-```
+```js
 const Discord = require('discord.js');
 const config = require('../../config');
 
